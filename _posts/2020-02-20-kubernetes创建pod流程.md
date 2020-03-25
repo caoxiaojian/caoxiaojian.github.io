@@ -3,7 +3,7 @@ layout:     post
 title:      kubernetes创建pod的流程
 subtitle:   创建一个pod是如何生成的
 date:       2020-02-20
-author:     zhangzhaorui
+author:     caoxiaojian
 header-img: img/123.jpg
 catalog: true
 tags:
