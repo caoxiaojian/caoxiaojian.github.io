@@ -1,13 +1,13 @@
 # Site settings
 title: NianShen Blog
-SEOTitle: 念申的博客 | NianShen Blog
+SEOTitle: 曹小贱的博客 | NianShen Blog
 header-img: img/timg.jpg
-email: nianshenlovelily@gmail.com
+email: cs901129@163.com
 description: "打杂小弟，向大佬们多学习"
-keyword: "张念申字钊瑞，运维，k8s，Docker"
-url: "http://zhangzhaorui.github.io"          # your host, for absolute URL
+keyword: "曹小贱，运维，k8s，Docker"
+url: "http://caoxiaojian.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-#github_repo: "https://github.com/zhangzhaorui/zhangzhaorui.github.io.git" # you code repository
+#github_repo: "https://github.com/caoxiaojian/caoxiaojian.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/zhangzhaorui.jpg      # use absolute URL, seeing it's used 
 RSS: false
 # weibo_username:     qiubaiying
 #zhihu_username:     zhangzhaorui
-github_username:    zhangzhaorui
+github_username:    caoxiaojian
 
 
 
